@@ -1,10 +1,5 @@
 # PyLint configuration file
 
-[FORMAT]
-indent-string='    '
-
-
-[DESIGN]
 
 
 [MESSAGES CONTROL]
